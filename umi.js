@@ -27541,7 +27541,7 @@
         return a;
       });
     var r = n('YS25'),
-      o = { basename: '/' };
+      o = { basename: '/web-learning' };
     window.routerBase && (o.basename = window.routerBase);
     var a = Object({ NODE_ENV: 'production' }).__IS_SERVER
         ? null
