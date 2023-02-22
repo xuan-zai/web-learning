@@ -1861,7 +1861,7 @@
                 ],
                 title: '\u5feb\u901f\u4e0a\u624b',
               },
-              title: '\u5feb\u901f\u4e0a\u624b - Site Name',
+              title: '\u5feb\u901f\u4e0a\u624b - web learning',
             },
             {
               path: '/help',
@@ -1876,7 +1876,7 @@
                 ],
                 title: '\u5e2e\u52a9',
               },
-              title: '\u5e2e\u52a9 - Site Name',
+              title: '\u5e2e\u52a9 - web learning',
             },
             {
               path: '/',
@@ -1886,43 +1886,30 @@
                 filePath: 'docs/index.md',
                 updatedTime: 1677039238e3,
                 hero: {
-                  title: 'Site Name',
-                  desc: '<div class="markdown"><p>dumi site app \u811a\u624b\u67b6</p></div>',
+                  title: 'WEB LEARNING',
+                  desc: '<div class="markdown"><p>\ud83d\udcda \u8bb0\u5f55\u5b66\u4e60\u524d\u7aef\u7684\u8fc7\u7a0b\uff0c\u5e76\u4e14\u4f1a\u628a\u5de5\u4f5c\u6216\u8005\u5b66\u4e60\u4e2d\u9047\u5230\u7684\u6bd4\u8f83\u96be\u89e3\u51b3\u6216\u8005\u6bd4\u8f83\u597d\u7528\u7684\u4e1c\u897f\u8bb0\u5f55\u4e0b\u6765</p></div>',
                   actions: [
                     {
-                      text: '\u5feb\u901f\u4e0a\u624b',
+                      text: '\u7acb\u5373\u67e5\u770b',
                       link: '/getting-started',
                     },
                   ],
                 },
-                features: [
-                  {
-                    icon: 'https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png',
-                    title: '\u7279\u6027 1',
-                    desc: '<div class="markdown"><p>Balabala</p></div>',
-                  },
-                  {
-                    icon: 'https://gw.alipayobjects.com/zos/bmw-prod/d60657df-0822-4631-9d7c-e7a869c2f21c/k79dmz3q_w126_h126.png',
-                    title: '\u7279\u6027 2',
-                    desc: '<div class="markdown"><p>Balabala</p></div>',
-                  },
-                  {
-                    icon: 'https://gw.alipayobjects.com/zos/bmw-prod/d1ee0c6f-5aed-4a45-a507-339a4bfe076c/k7bjsocq_w144_h144.png',
-                    title: '\u7279\u6027 3',
-                    desc: '<div class="markdown"><p>Balabala</p></div>',
-                  },
-                ],
                 footer:
-                  '<div class="markdown"><p>Open-source MIT Licensed | Copyright \xa9 2020<br />Powered by <a href="https://d.umijs.org/" target="_blank">dumi<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="__dumi-default-external-link-icon"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path><polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></p></div>',
+                  '<div class="markdown"><p>Be from <a href="https://github.com/xuan-zai/web-learning/tree/master" target="_blank">xuan-zai<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="__dumi-default-external-link-icon"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path><polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></p></div>',
                 slugs: [
-                  { depth: 2, value: 'Hello dumi!', heading: 'hello-dumi' },
+                  {
+                    depth: 2,
+                    value: '\ud83d\udcda WEB LEARNING',
+                    heading: '-web-learning',
+                  },
                 ],
-                title: 'Hello dumi!',
+                title: '\ud83d\udcda WEB LEARNING',
               },
-              title: 'Hello dumi! - Site Name',
+              title: '\ud83d\udcda WEB LEARNING - web learning',
             },
           ],
-          title: 'Site Name',
+          title: 'web learning',
           component: (e) => e.children,
         },
       ];
@@ -1951,7 +1938,7 @@
                 history: Object(o['a'])(e.hot),
                 isServer: Object({ NODE_ENV: 'production' }).__IS_SERVER,
                 rootElement: 'root',
-                defaultTitle: 'Site Name',
+                defaultTitle: 'web learning',
               },
             });
             return Object(i['renderClient'])(t);
@@ -6066,13 +6053,51 @@
             { className: 'markdown' },
             o.a.createElement(
               'h2',
-              { id: 'hello-dumi' },
+              { id: '-web-learning' },
               o.a.createElement(
                 a['AnchorLink'],
-                { to: '#hello-dumi', 'aria-hidden': 'true', tabIndex: -1 },
+                { to: '#-web-learning', 'aria-hidden': 'true', tabIndex: -1 },
                 o.a.createElement('span', { className: 'icon icon-link' }),
               ),
-              'Hello dumi!',
+              '\ud83d\udcda WEB LEARNING',
+            ),
+            o.a.createElement(
+              'p',
+              null,
+              o.a.createElement('img', {
+                src: 'https://badgen.net/github/stars/xuan-zai/web-learning/?catch=300',
+                alt: 'stars',
+              }),
+              '  ',
+              o.a.createElement('img', {
+                src: 'https://badgen.net/github/forks/xuan-zai/web-learning/?catch=30',
+                alt: 'forks',
+              }),
+              '  ',
+              o.a.createElement('img', {
+                src: 'https://badgen.net/github/issues/xuan-zai/web-learning/?catch=30',
+                alt: 'issues',
+              }),
+              '  ',
+              o.a.createElement('img', {
+                src: 'https://badgen.net/github/prs/xuan-zai/web-learning/?catch=30',
+                alt: 'prs',
+              }),
+              '  ',
+              o.a.createElement('img', {
+                src: 'https://badgen.net/github/watchers/xuan-zai/web-learning/?catch=30',
+                alt: 'watchers',
+              }),
+              '  ',
+              o.a.createElement('img', {
+                src: 'https://badgen.net/github/last-commit/xuan-zai/web-learning/?catch=30',
+                alt: 'last-commit',
+              }),
+            ),
+            o.a.createElement(
+              'p',
+              null,
+              '\u521b\u5efa\u672c\u4ed3\u5e93\u7684\u521d\u8877\u662f\u60f3\u8bb0\u5f55\u4e00\u4e0b\u5de5\u4f5c\u6216\u8005\u5b66\u4e60\u4e2d\u9047\u5230\u7684\u4e00\u4e9b\u95ee\u9898\uff0c\u5e76\u4e14\u5c1d\u8bd5\u7740\u7528\u81ea\u5df1\u7684\u529e\u6cd5\u6765\u89e3\u51b3\u5b83\u3002\u867d\u7136\u81ea\u5df1\u7684\u6280\u672f\u6ca1\u6709\u90a3\u4e9b\u5927\u4f6c\u8fd9\u4e48\u5389\u5bb3\uff0c\u4f46\u8fd8\u662f\u60f3\u8981\u6446\u8131\u9762\u5411\u767e\u5ea6\u5f00\u53d1\u7684\u5934\u8854\uff0c\u4e5f\u5e0c\u671b\u8fd9\u4e2a\u4ed3\u5e93\u4e2d\u7684\u5185\u5bb9\u53ef\u4ee5\u5e2e\u52a9\u5230\u4f60\ud83d\ude18\u3002',
             ),
           ),
         );
@@ -12793,7 +12818,7 @@
   },
   RGYn: function (e) {
     e.exports = JSON.parse(
-      '{"menus":{"en-US":{"/getting-started":[{"path":"/getting-started","title":"\u5feb\u901f\u4e0a\u624b","meta":{}}],"/help":[{"path":"/help","title":"\u5e2e\u52a9","meta":{}}],"*":[{"path":"/","title":"Hello dumi!","meta":{}}]}},"locales":[{"name":"en-US","label":"English"}],"navs":{"en-US":[{"title":"\u5feb\u901f\u4e0a\u624b","order":1,"path":"/getting-started"},{"title":"\u5e2e\u52a9","path":"/help"}]},"title":"Site Name","mode":"site","repository":{"url":"","branch":"master"},"theme":{}}',
+      '{"menus":{"en-US":{"/getting-started":[{"path":"/getting-started","title":"\u5feb\u901f\u4e0a\u624b","meta":{}}],"/help":[{"path":"/help","title":"\u5e2e\u52a9","meta":{}}],"*":[{"path":"/","title":"\ud83d\udcda WEB LEARNING","meta":{}}]}},"locales":[{"name":"en-US","label":"English"}],"navs":{"en-US":[{"title":"\u5feb\u901f\u4e0a\u624b","order":1,"path":"/getting-started"},{"title":"\u5e2e\u52a9","path":"/help"}]},"title":"web learning","logo":"/images/xx.png","mode":"site","repository":{"url":"","branch":"master"},"theme":{}}',
     );
   },
   RIqP: function (e, t, n) {

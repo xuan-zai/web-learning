@@ -1,21 +1,15 @@
 ---
 hero:
-  title: Site Name
-  desc: dumi site app 脚手架
+  title: WEB LEARNING
+  desc: 📚 记录学习前端的过程，并且会把工作或者学习中遇到的比较难解决或者比较好用的东西记录下来
   actions:
-    - text: 快速上手
+    - text: 立即查看
       link: /getting-started
-features:
-  - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
-    title: 特性 1
-    desc: Balabala
-  - icon: https://gw.alipayobjects.com/zos/bmw-prod/d60657df-0822-4631-9d7c-e7a869c2f21c/k79dmz3q_w126_h126.png
-    title: 特性 2
-    desc: Balabala
-  - icon: https://gw.alipayobjects.com/zos/bmw-prod/d1ee0c6f-5aed-4a45-a507-339a4bfe076c/k7bjsocq_w144_h144.png
-    title: 特性 3
-    desc: Balabala
-footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org)
+footer: Be from [xuan-zai](https://github.com/xuan-zai/web-learning/tree/master)
 ---
 
-## Hello dumi!
+## 📚 WEB LEARNING
+
+![stars](https://badgen.net/github/stars/xuan-zai/web-learning/?catch=300) ![forks](https://badgen.net/github/forks/xuan-zai/web-learning/?catch=30) ![issues](https://badgen.net/github/issues/xuan-zai/web-learning/?catch=30) ![prs](https://badgen.net/github/prs/xuan-zai/web-learning/?catch=30) ![watchers](https://badgen.net/github/watchers/xuan-zai/web-learning/?catch=30) ![last-commit](https://badgen.net/github/last-commit/xuan-zai/web-learning/?catch=30)
+
+创建本仓库的初衷是想记录一下工作或者学习中遇到的一些问题，并且尝试着用自己的办法来解决它。虽然自己的技术没有那些大佬这么厉害，但还是想要摆脱面向百度开发的头衔，也希望这个仓库中的内容可以帮助到你 😘。
