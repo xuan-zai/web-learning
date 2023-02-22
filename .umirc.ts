@@ -3,6 +3,6 @@ import { defineConfig } from 'dumi';
 export default defineConfig({
   title: 'Site Name',
   mode: 'site',
-  base: '/web-learning',
+  publicPath: '/web-learning/',
   // more config: https://d.umijs.org/config
 });
