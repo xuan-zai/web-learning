@@ -1846,7 +1846,7 @@
               exact: !0,
               meta: {
                 filePath: 'docs/getting-started.md',
-                updatedTime: 1677038503e3,
+                updatedTime: 1677039238e3,
                 nav: {
                   title: '\u5feb\u901f\u4e0a\u624b',
                   order: 1,
@@ -1869,7 +1869,7 @@
               exact: !0,
               meta: {
                 filePath: 'docs/help.md',
-                updatedTime: 1677038503e3,
+                updatedTime: 1677039238e3,
                 nav: { title: '\u5e2e\u52a9', path: '/help' },
                 slugs: [
                   { depth: 1, value: '\u5e2e\u52a9', heading: '\u5e2e\u52a9' },
@@ -1884,7 +1884,7 @@
               exact: !0,
               meta: {
                 filePath: 'docs/index.md',
-                updatedTime: 1677038503e3,
+                updatedTime: 1677039238e3,
                 hero: {
                   title: 'Site Name',
                   desc: '<div class="markdown"><p>dumi site app \u811a\u624b\u67b6</p></div>',
@@ -27541,7 +27541,7 @@
         return a;
       });
     var r = n('YS25'),
-      o = { basename: '/' };
+      o = { basename: '/web-learning' };
     window.routerBase && (o.basename = window.routerBase);
     var a = Object({ NODE_ENV: 'production' }).__IS_SERVER
         ? null
