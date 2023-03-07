@@ -5,6 +5,6 @@ export default defineConfig({
   mode: 'site',
   publicPath: '/web-learning/',
   base: '/web-learning',
-  logo: '/image/logo.png',
-  favicon: '/image/logo.ico',
+  logo: '/web-learning/image/logo.png',
+  favicon: '/web-learning/image/logo.ico',
 });
