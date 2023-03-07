@@ -4,7 +4,7 @@ hero:
   desc: 📚 记录学习前端的过程，并且会把工作或者学习中遇到的比较难解决或者比较好用的东西记录下来
   actions:
     - text: 立即查看
-      link: /getting-started
+      link: /quiz
 footer: Be from [xuan-zai](https://github.com/xuan-zai/web-learning/tree/master)
 ---
 
