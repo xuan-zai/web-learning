@@ -1846,7 +1846,7 @@
               exact: !0,
               meta: {
                 filePath: 'docs/index.md',
-                updatedTime: 1677136341e3,
+                updatedTime: 1678179903e3,
                 hero: {
                   title: 'WEB LEARNING',
                   desc: '<div class="markdown"><p>\ud83d\udcda \u8bb0\u5f55\u5b66\u4e60\u524d\u7aef\u7684\u8fc7\u7a0b\uff0c\u5e76\u4e14\u4f1a\u628a\u5de5\u4f5c\u6216\u8005\u5b66\u4e60\u4e2d\u9047\u5230\u7684\u6bd4\u8f83\u96be\u89e3\u51b3\u6216\u8005\u6bd4\u8f83\u597d\u7528\u7684\u4e1c\u897f\u8bb0\u5f55\u4e0b\u6765</p></div>',
@@ -13395,7 +13395,7 @@
   },
   RGYn: function (e) {
     e.exports = JSON.parse(
-      '{"menus":{"en-US":{"*":[{"path":"/","title":"\ud83d\udcda WEB LEARNING","meta":{}}],"/note":[{"path":"/note","title":"\u4ecb\u7ecd","meta":{}}],"/quiz":[{"title":"JavaScript","meta":{"order":1,"__fallback":true},"children":[{"path":"/quiz","title":"\u6570\u7ec4\u53bb\u91cd","meta":{}}]}],"/soft-skills":[{"title":"GitHub Actions","meta":{"order":1,"__fallback":true},"children":[{"path":"/soft-skills","title":"\u4f7f\u7528 github Actions \u81ea\u52a8\u5316\u90e8\u7f72\u4f60\u7684\u7f51\u9875","meta":{}}]}]}},"locales":[{"name":"en-US","label":"English"}],"navs":{"en-US":[{"title":"\u9762\u8bd5\u96c6","order":1,"path":"/quiz"},{"title":"\u524d\u7aef\u8f6f\u6280\u80fd","order":1,"path":"/soft-skills"},{"title":"\u8bfb\u4e66\u7b14\u8bb0","order":2,"path":"/note"}]},"title":"web learning","logo":"/image/logo.png","mode":"site","repository":{"url":"","branch":"master"},"theme":{}}',
+      '{"menus":{"en-US":{"*":[{"path":"/","title":"\ud83d\udcda WEB LEARNING","meta":{}}],"/note":[{"path":"/note","title":"\u4ecb\u7ecd","meta":{}}],"/quiz":[{"title":"JavaScript","meta":{"order":1,"__fallback":true},"children":[{"path":"/quiz","title":"\u6570\u7ec4\u53bb\u91cd","meta":{}}]}],"/soft-skills":[{"title":"GitHub Actions","meta":{"order":1,"__fallback":true},"children":[{"path":"/soft-skills","title":"\u4f7f\u7528 github Actions \u81ea\u52a8\u5316\u90e8\u7f72\u4f60\u7684\u7f51\u9875","meta":{}}]}]}},"locales":[{"name":"en-US","label":"English"}],"navs":{"en-US":[{"title":"\u9762\u8bd5\u96c6","order":1,"path":"/quiz"},{"title":"\u524d\u7aef\u8f6f\u6280\u80fd","order":1,"path":"/soft-skills"},{"title":"\u8bfb\u4e66\u7b14\u8bb0","order":2,"path":"/note"}]},"title":"web learning","logo":"/web-learning/image/logo.png","mode":"site","repository":{"url":"","branch":"master"},"theme":{}}',
     );
   },
   RIqP: function (e, t, n) {
