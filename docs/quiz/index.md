@@ -77,10 +77,8 @@ group:
    let un_repeat = arr.reduce((previousValue, currentValue, currentIndex) => {
      if (previousValue.indexOf(currentValue) === -1) {
        previousValue.push(currentValue);
-       return previousValue;
-     } else {
-       return previousValue;
      }
+     return previousValue;
    }, []);
    console.log(un_repeat); // [1, 2, 3, 5]
    ```
