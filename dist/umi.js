@@ -1904,7 +1904,7 @@
               exact: !0,
               meta: {
                 filePath: 'docs/quiz/index.md',
-                updatedTime: 1678098907e3,
+                updatedTime: 1678156779e3,
                 title: '\u6570\u7ec4\u53bb\u91cd',
                 nav: { title: '\u9762\u8bd5\u96c6', order: 1, path: '/quiz' },
                 group: {
@@ -5799,7 +5799,7 @@
                 null,
                 o.a.createElement('p', null, '\u4f7f\u7528 reduce + indexOf'),
                 o.a.createElement(i['a'], {
-                  code: 'let arr = [1, 2, 3, 1, 3, 2, 1, 5];\nlet un_repeat = arr.reduce((previousValue, currentValue, currentIndex) => {\n  if (previousValue.indexOf(currentValue) === -1) {\n    previousValue.push(currentValue);\n    return previousValue;\n  } else {\n    return previousValue;\n  }\n}, []);\nconsole.log(un_repeat); // [1, 2, 3, 5]',
+                  code: 'let arr = [1, 2, 3, 1, 3, 2, 1, 5];\nlet un_repeat = arr.reduce((previousValue, currentValue, currentIndex) => {\n  if (previousValue.indexOf(currentValue) === -1) {\n    previousValue.push(currentValue);\n  }\n  return previousValue;\n}, []);\nconsole.log(un_repeat); // [1, 2, 3, 5]',
                   lang: 'js',
                 }),
               ),
